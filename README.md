@@ -6,4 +6,4 @@ Currently exploring generative workflows, LLM-based tools, and local AI infrastr
 
 Writing on AI, judgment, and institutional practice. More on that here: [LinkedIn](https://www.linkedin.com/in/aymeric-brouez)
 
-📫 Reach out via LinkedIn or [brouez.aymeric@gmail.com](mailto:brouez.aymeric@gmail.com)
+(U+2794) Reach out via LinkedIn or [brouez.aymeric@gmail.com](mailto:brouez.aymeric@gmail.com)
