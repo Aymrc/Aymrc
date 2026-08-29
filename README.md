@@ -4,6 +4,6 @@ Architect & Computational Designer, working at the intersection of architectural
 
 Currently exploring generative workflows, LLM-based tools, and local AI infrastructure and workflows for architecture, including prototypes for internal office use.
 
-Writing on AI, judgment, and institutional practice. More on that here: [LinkedIn](https://www.linkedin.com/in/aymeric-brouez)
+Writing on AI, judgment, and institutional practice. More on that [here](https://www.linkedin.com/in/aymeric-brouez).
 
-→ Reach out via LinkedIn or [brouez.aymeric@gmail.com](mailto:brouez.aymeric@gmail.com)
+→ Reach out via [LinkedIn](https://www.linkedin.com/in/aymeric-brouez) or [brouez.aymeric@gmail.com](mailto:brouez.aymeric@gmail.com)
